@@ -32,11 +32,6 @@
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkumar&theme=react" height="160" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar&show_icons=true&theme=react" height="160" />
-</p>
 
 ---
 
