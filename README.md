@@ -12,7 +12,7 @@
 - 💻 I specialize in **Frontend Web Development** using modern technologies.  
 - 🎨 I love building clean, elegant, and responsive UI/UX.  
 - 🚀 Currently enhancing my skills in **React.js**, **Performance Optimization**, and **Animations**.  
-- 📬 Reach me at **manish@example.com**
+- 📬 Reach me at **manish12099@gmail.com**
 
 ---
 
