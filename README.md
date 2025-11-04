@@ -6,6 +6,8 @@
   💡 Passionate about turning ideas into interactive user experiences.
 </p>
 
+![](https://github.com/ianshulx/ianshulx/blob/main/snake.svg)
+
 ---
 
 ### 🧠 About Me  
