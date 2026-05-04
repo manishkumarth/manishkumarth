@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Manish Kumar</h1>
-<h3 align="center">✨ Frontend Developer | React.js | JavaScript | UI/UX Enthusiast ✨</h3>
+<h3 align="center">✨ Frontend Developer | React.js | JavaScript | Node.js | Express.js | Mongodb ✨</h3>
 
 <p align="center">
   🌐 Crafting pixel-perfect, responsive, and dynamic web interfaces.<br/>
